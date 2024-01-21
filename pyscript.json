@@ -1,0 +1,14 @@
+{
+    "packages": [
+
+      "pandas"
+    ],
+    "files": {
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/Excel_Interview_Virtual_Assistant.json": "./Excel_Interview_Virtual_Assistant.json",
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/HTML_Interview_Virtual_Assistant.json": "./HTML_Interview_Virtual_Assistant.json",
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/PYTHON_Interview_Virtual_Assistant.json": "./PYTHON_Interview_Virtual_Assistant.json",
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/PowerBI_Interview_Virtual_Assistant.json": "./PowerBI_Interview_Virtual_Assistant.json",
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/SQL_Interview_Virtual_Assistant.json": "./SQL_Interview_Virtual_Assistant.json",
+      "https://raw.githubusercontent.com/Mohammad-Dawoood/dump_Files/main/Tableau_Interview_Virtual_Assistant.json": "./Tableau_Interview_Virtual_Assistant.json"
+  }
+}
